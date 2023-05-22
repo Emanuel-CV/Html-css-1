@@ -1,10 +1,13 @@
 body{
-    background-color: #CCCCCC;
     margin: 0;
 }
 
 .banner{
     width: 100%;
+}
+
+.main{
+    background-color: #CCCCCC
 }
 h1{
     text-align: center;
@@ -22,6 +25,14 @@ p{
 }
 .mision b{
     color: rgb(255, 0, 0);
+}
+
+.diferenciales{
+    background-color: #FFFFFF;
+}
+
+.diferenciales h2{
+    text-align: center;
 }
 
 ul li{
