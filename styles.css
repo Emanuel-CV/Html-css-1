@@ -1,0 +1,29 @@
+body{
+    background-color: #CCCCCC;
+    margin: 0;
+}
+
+.banner{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    border: 5px solid black;
+    padding: 5px;
+    margin: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+.mision{
+    font-size: 20px;
+}
+.mision b{
+    color: rgb(255, 0, 0);
+}
+
+ul li{
+    font-style: italic;
+}
