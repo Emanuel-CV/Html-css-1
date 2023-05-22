@@ -6,11 +6,20 @@ body{
     width: 100%;
 }
 
+.tituloPrincipal{
+    padding-left: 30px;
+}
+
 .main{
     background-color: #CCCCCC;
     padding: 20px;
 }
-h1{
+
+.tituloCentro{
+    text-align: center;
+}
+
+h2{
     text-align: center;
     border: 5px solid black;
     padding: 5px;
@@ -32,7 +41,7 @@ p{
     background-color: #FFFFFF;
 }
 
-.diferenciales h2{
+.diferenciales h3{
     text-align: center;
     padding: 30px;
 }
